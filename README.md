@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Backend development in php**
 
-- 👨‍💻 All of my projects are available at [https://l.instagram.com/?u=https%3A%2F%2Flinktr.ee%2Fmeloncodes&e=AT0FEJ4HGzopEAWdDI-jsDeT7W3J4AJvaHQ-9rZ2dZMxNNsG36EENWy2hUgp87K-6XvrYemFCOvujqIcataE95F1fHB90KU_QzNbuZQ](https://l.instagram.com/?u=https%3A%2F%2Flinktr.ee%2Fmeloncodes&e=AT0FEJ4HGzopEAWdDI-jsDeT7W3J4AJvaHQ-9rZ2dZMxNNsG36EENWy2hUgp87K-6XvrYemFCOvujqIcataE95F1fHB90KU_QzNbuZQ)
+- 👨‍💻 All of my projects are available at (https://linktr.ee/meloncodes)
 
 - 📫 How to reach me **waniaanjumm@gmail.com**
 
