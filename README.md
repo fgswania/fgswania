@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Backend development in php**
 
-- 👨‍💻 All of my projects are available at (https://linktr.ee/meloncodes)
+- 👨‍💻 All of my projects are available at https://linktr.ee/meloncodes
 
 - 📫 How to reach me **waniaanjumm@gmail.com**
 
