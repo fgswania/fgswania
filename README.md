@@ -6,19 +6,14 @@
 
 - 🌱 I’m currently learning **Backend development in php**
 
-- 👨‍💻 All of my projects are available at https://linktr.ee/meloncodes
-
 - 📫 How to reach me **waniaanjumm@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/14lS_T7TLTyw5iKheZsQtzAkys6yE6tYR/view?usp=drivesdk](https://drive.google.com/file/d/14lS_T7TLTyw5iKheZsQtzAkys6yE6tYR/view?usp=drivesdk)
 
 - ⚡ Fun fact **I am a great learner🙌**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/wania-irfan-506b8731a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/wania-irfan-506b8731a/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/meloncodes?mibextid=lqqj4d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/meloncodes?mibextid=lqqj4d" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/melon_codes/?next=%2flogin%2f" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/melon_codes/?next=%2flogin%2f" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/wania-baig-506b8731a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/wania-irfan-506b8731a/" height="30" width="40" /></a>
+<a href="https://www.instagram.com/wai.wania?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/melon_codes/?next=%2flogin%2f" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
