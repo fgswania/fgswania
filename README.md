@@ -1,4 +1,3 @@
-![MasterHead](https://img.freepik.com/premium-photo/anime-girl-working-her-computer-background-lofi-music_846334-1014.jpg?w=826)
 <h1 align="center">Hi 👋, I'm Wania Irfan</h1>
 <h3 align="center">A passionate frontend developer from Pakistan💖</h3>
 <img align="right" alt="coding" width="400" src="https://cdnb.artstation.com/p/assets/images/images/036/125/405/original/igor-freitas-mesa.gif?1616779562">
@@ -12,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/wania-baig-506b8731a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/wania-irfan-506b8731a/" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/wania-baig-506b8731a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/wania-baig-506b8731a/" height="30" width="40" /></a>
 <a href="https://www.instagram.com/wai.wania?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/melon_codes/?next=%2flogin%2f" height="30" width="40" /></a>
 </p>
 
@@ -21,4 +20,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fgswania&show_icons=true&locale=en&layout=compact" alt="fgswania" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fgswania&show_icons=true&locale=en" alt="fgswania" /></p>
